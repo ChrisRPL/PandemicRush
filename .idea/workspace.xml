@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PandemicRush:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7686a699-1f6b-4cb2-b9dc-2e5bed2ad256" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bMXWBURA9qmbHFYSRIU04gKvC4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Krzysztof\Desktop\rzeczy z pulpitu\java uczelnia\PandemicRush\img" />
+      <recent name="C:\Users\Krzysztof\Desktop\rzeczy z pulpitu\java uczelnia\PandemicRush" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Krzysztof\Desktop\rzeczy z pulpitu\java uczelnia\PandemicRush" />
+      <recent name="C:\Users\Krzysztof\Desktop\rzeczy z pulpitu\java uczelnia\PandemicRush\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="PandemicRush" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7686a699-1f6b-4cb2-b9dc-2e5bed2ad256" name="Default Changelist" comment="" />
+      <created>1588442966119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588442966119</updated>
+      <workItem from="1588442970122" duration="20985000" />
+      <workItem from="1588598027328" duration="27892000" />
+      <workItem from="1589019793890" duration="17151000" />
+      <workItem from="1589192398035" duration="5239000" />
+      <workItem from="1589201233526" duration="1424000" />
+      <workItem from="1589221715123" duration="5123000" />
+      <workItem from="1589308483754" duration="1347000" />
+      <workItem from="1589381845639" duration="8834000" />
+      <workItem from="1589457471150" duration="16807000" />
+      <workItem from="1589491971419" duration="2299000" />
+      <workItem from="1589553025676" duration="27761000" />
+      <workItem from="1589668863728" duration="29451000" />
+      <workItem from="1589814629233" duration="21726000" />
+      <workItem from="1589890427769" duration="15666000" />
+      <workItem from="1589971978424" duration="22740000" />
+      <workItem from="1590057711659" duration="21437000" />
+      <workItem from="1590083567846" duration="9666000" />
+      <workItem from="1590148588810" duration="21753000" />
+      <workItem from="1590182692009" duration="716000" />
+      <workItem from="1590323228912" duration="2029000" />
+      <workItem from="1590407886468" duration="2667000" />
+      <workItem from="1590445980014" duration="390000" />
+      <workItem from="1590506142264" duration="864000" />
+      <workItem from="1590520682830" duration="1340000" />
+      <workItem from="1590594380207" duration="1261000" />
+      <workItem from="1590840391170" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
